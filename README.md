@@ -32,8 +32,13 @@ print_help.c: Print a list of all builtins. Functions inside: print_help()
 shell.h: Contains all function prototypes, structs, and header files necessary for all other functions
 string_ops.c: One of two files containing functions to manage string variables. Functions inside: _strlen(), _strdup(), _strspn(), _strchr(), _strpbrk()
 string_ops_2.C: Second of two files containing functions to manage string variables. Functions inside: _strncmp(), str_concat(), _strcpy()
-tokenize.c: Tokenize the given input. Functions inside: tokenize()
+tokenize.c: Tokenize the given input. Functions inside: tokenized()
+
+
 Authors
 
+
 AlMonther Abdulhafeez <ealmonzer667@gmail.com>
+
+
 Ammar Ashour
